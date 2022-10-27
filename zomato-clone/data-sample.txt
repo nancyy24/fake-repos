@@ -5,18 +5,8 @@ content:"Start your day with exclusive breakfast options"
 image:"assets/breakfast.png"
 meal_type:1
 name:"Breakfast"
-_id:"630413a0fd87f484c3a4b367"
+_id:"630413a0fd87fgfg3a4b367"
 
-
-
-// location id
-
-city:"Delhi"
-city_id:1
-country_name:"India"
-location_id:1
-name:"Shalimar Bagh"
-_id:"630359d988317431409900a5"
 
 //get restaurant by location
 aggregate_rating:4.2
